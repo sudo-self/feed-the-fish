@@ -1,2 +1,3 @@
 # feed-the-fish
-![android-chrome-256x256](https://github.com/sudo-self/feed-the-fish/assets/119916323/f51b0f5c-1675-461d-9a88-a9158c8eaa5d)
+![Screenshot 2023-12-01 at 5 34 51 AM](https://github.com/sudo-self/feed-the-fish/assets/119916323/a84fad2f-dfbe-4157-8bcf-7405bbdba353)
+
